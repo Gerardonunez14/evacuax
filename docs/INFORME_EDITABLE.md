@@ -10,7 +10,7 @@
 
 ## 1. Proyecto y alcance
 
-EvacuaX es un sistema web proyectado para representar edificios mediante grafos, configurar emergencias y comparar estrategias de evacuación. Para este TP se preparó una base JavaScript ejecutable con Node.js y dos funciones pequeñas del motor. React, Express, MySQL, las rutas y la simulación visual corresponden a etapas posteriores.
+EvacuaX es un sistema web proyectado para representar edificios mediante grafos, configurar emergencias y comparar estrategias de evacuación. Para este TP se preparó una base JavaScript ejecutable con Node.js y dos funciones pequeñas del motor. Vue.js, Express, MySQL, las rutas y la simulación visual corresponden a etapas posteriores.
 
 ## 2. Organización del repositorio
 

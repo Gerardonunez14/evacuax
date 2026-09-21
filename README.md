@@ -3,7 +3,7 @@
 Base académica para Metodología de Sistemas II, UTN FRT, 2026.
 El proyecto completo será un sistema web de simulación y comparación de estrategias de evacuación.
 Este TP implementa solamente dos funciones pequeñas del motor y practica Git.
-No incluye todavía interfaz React, servidor Express, base MySQL ni cálculo de rutas o tiempos.
+No incluye todavía interfaz Vue.js, servidor Express, base MySQL ni cálculo de rutas o tiempos.
 
 ## Ejecutar
 Con Node.js 20 o superior, desde la carpeta del proyecto:
@@ -15,7 +15,7 @@ No requiere descargar dependencias ni ejecutar npm install.
 En main queda la versión inicial. Para ejecutar ambas funciones, usar feature/salidas-habilitadas.
 
 ## Organización
-- frontend/: espacio reservado para React.
+- frontend/: espacio reservado para Vue.js.
 - backend/src/motor/: lógica inicial del modelo.
 - backend/src/escenarios/: resumen de los datos de un escenario.
 - database/: espacio reservado para scripts MySQL.
