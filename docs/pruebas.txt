@@ -1,0 +1,19 @@
+> evacuax-tp1@0.1.0 test
+> node --test
+
+✔ Clasifica los límites sin solapamientos (1.044563ms)
+✔ 47 personas en capacidad 25 producen 188 % (1.131807ms)
+✔ Rechaza capacidad cero y cantidades inválidas (0.537589ms)
+✔ La resolución conserva ocupación y salidas disponibles (1.475708ms)
+✔ El resumen admite un escenario vacío (0.212647ms)
+✔ Excluye salidas bloqueadas sin modificar la lista original (1.349102ms)
+✔ Devuelve lista vacía si no hay salidas disponibles (0.148725ms)
+✔ Rechaza lista o estados inválidos (0.410579ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 178.790134
