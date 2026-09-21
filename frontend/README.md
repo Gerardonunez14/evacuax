@@ -1,3 +1,3 @@
 # Frontend previsto
 
-La interfaz React se desarrollará en etapas posteriores.
+La interfaz vue.js se desarrollará en etapas posteriores.
